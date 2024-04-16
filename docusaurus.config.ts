@@ -15,7 +15,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'github', // Usually your GitHub org/user name.
+  organizationName: 'rhd1703', // Usually your GitHub org/user name.
   projectName: 'vdoglo', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/rhd1703/vdoglo/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -72,8 +72,8 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://www.youtube.com/watch?v=_a190v-_aaA',
+          label: 'YouTube',
           position: 'right',
         },
       ],
@@ -94,17 +94,17 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'YouTube',
+              href: 'https://www.youtube.com/watch?v=_a190v-_aaA',
             },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+            // {
+            //   label: 'Discord',
+            //   href: 'https://discordapp.com/invite/docusaurus',
+            // },
+            // {
+            //   label: 'Twitter',
+            //   href: 'https://twitter.com/docusaurus',
+            // },
           ],
         },
         {
@@ -114,10 +114,10 @@ const config: Config = {
               label: 'Blog',
               to: '/blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
+            // {
+            //   label: 'GitHub',
+            //   href: 'https://github.com/rhd1703/vdoglo',
+            // },
           ],
         },
       ],

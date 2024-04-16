@@ -2,7 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction to VDOGLO
+
+VDOGLO, a minimalistic and affordable video recording system that offers full HD or 4K ultra high definition video recording.
+
+The software is Windows-based featuring excellent library functions for storage, categorization, flagging, bookmarking, and time stamping.
+The interest-based retrieval function simplifies the process of locating specific videos among large archives.
+
+Other features include auto-chaptering at every 5 minutes or 500 MB, static or dynamic watermarking during recording or editing.
+
+The software also supports live streaming and simultaneous recording on multiple monitors.
+VDOGLO's efficient and proprietary video compression codec enables smooth running and effective digital enhancement, even during PowerPoint and Keynote presentations.
+
+The software allows recording with impressive detail and rich, vivid colors, and can enhance 1K 2-megapixel videos to nearly 4K resolution.
+
+## Tutorial Intro
 
 Let's discover **VDOGLO in less than 5 minutes**.
 

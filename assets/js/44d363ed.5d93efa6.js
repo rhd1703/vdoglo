@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_demo=self.webpackChunktest_demo||[]).push([[9846],{9798:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/vdoglo/blog/tags/hello","allTagsPath":"/vdoglo/blog/tags","count":2,"unlisted":false}')}}]);

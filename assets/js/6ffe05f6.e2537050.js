@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_demo=self.webpackChunktest_demo||[]).push([[8225],{924:e=>{e.exports=JSON.parse('{"permalink":"/vdoglo/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
